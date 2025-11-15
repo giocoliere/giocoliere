@@ -33,7 +33,7 @@ Hi, I'm Giocoliere (ofc this is just a nick). I'm studying how2 code by myself f
 [![markdown](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/markdown_vector.svg)](https://www.markdownguide.org/) <br>
 [![codeberg-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/codeberg-singular_vector.svg)](https://codeberg.org/giocoliere) 
 [![gitlab-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/gitlab-singular_vector.svg)](https://gitlab.com/giocoliere) <br>
-[![Discord PR](https://discord-readme-card.ezzud.fr/?userid=842087107908206654&bgcolor=1a1b27)](https://gioco.lol/discord)
+[![Discord PR](https://discord-readme-card.ezzud.fr/?userid=1171900017389346887&bgcolor=1a1b27)](https://gioco.lol/discord)
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=w46jsh6qyeoex1a0o2n9we57f&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=c7c7c7&bar_color_cover=false)](https://last.fm/user/giocoliere_)
 
  ### Skills 
