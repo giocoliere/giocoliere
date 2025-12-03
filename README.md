@@ -11,9 +11,11 @@ Hi [![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-
 </picture> 
 </a> 
 
-# A human..I guess
+# I'm just a random dude
+>[!NOTE]
+>This page is W.I.P., so please be patients...
 <br>
-Hi, I'm Giocoliere (ofc this is just a nick). I'm studying how2 code by myself for fun and because i enjoy it. When i was 12 i started my actual first project that i called Creepercraft and im still working on it all by myself even today (+ other projects, always alone)
+Hi, I'm Giocoliere (ofc this is just a nickname). I'm studying how to code by myself. When i was 12 i started my actual first project that i called Creepercraft and im still working on it all by myself even today (+ other projects, always alone).
 <br>
 
 --------------------------------------------------------------------------
