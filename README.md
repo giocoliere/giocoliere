@@ -30,9 +30,7 @@ Hi, I'm Giocoliere (ofc this is just a nickname). I'm studying how to code by my
 [![discord-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-singular_vector.svg)](https://giocoliere.dev/discord) 
 [![twitter-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/twitter-singular_vector.svg)](https://twitter.com/giocolieredev) <br>
 [![mastodon-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/mastodon-singular_vector.svg)](https://mas.to/@gioco) 
-[![guilded-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/guilded-singular_vector.svg)](https://guilded.gg/u/gioco) <br>
-[![revolt-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/revolt-singular_vector.svg)](https://app.revolt.chat/@giocoliere#4812)
-[![markdown](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/markdown_vector.svg)](https://www.markdownguide.org/) <br>
+[![revolt-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/revolt-singular_vector.svg)](https://app.revolt.chat/@giocoliere#4812) <br>
 [![codeberg-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/codeberg-singular_vector.svg)](https://codeberg.org/giocoliere) 
 [![gitlab-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/gitlab-singular_vector.svg)](https://gitlab.com/giocoliere) <br>
 [![Discord PR](https://lanyard.cnrad.dev/api/842087107908206654?hideStatus=true&idleMessage=%20&showDisplayName=true&hideActivity=true)](https://gioco.lol/discord)
@@ -46,9 +44,9 @@ Hi, I'm Giocoliere (ofc this is just a nickname). I'm studying how to code by my
 <summary>  :octocat: Stats </summary>
 
 <a href="https://www.github.com/giocoliere">
-<img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=giocoliere&hide=issues&show_icons=true&theme=transparent" />
+<img height=150 align="center" src="https://readme-stats-fast.vercel.app/api?username=giocoliere&hide=issues&show_icons=true&theme=transparent" />
 <a href="https://www.github.com.com/giocoliere">
-<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giocoliere&layout=compact&theme=transparent" />
+<img height=150 align="center" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=giocoliere&layout=compact&theme=transparent" />
     </details>   
  <details>
 <summary>:headphones:/🎮 Activities (old)</summary>
