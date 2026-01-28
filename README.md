@@ -27,12 +27,12 @@ Hi, I'm Giocoliere (ofc this is just a nickname). I'm studying how to code by my
 *   🚀  [**`CreeperHUB`**](https://creeperhub.net) projects: [**`Otakuforge`**](https://creeperhub.net/otakuforge), [**`Creepercraft`**](http://creepercraft.net), [**`CreeperLAB`**](http://creeperlab.org) and others
 *   ⚡  [**`creepers.sbs`**](http://creepers.sbs)  /// [![Profile views](https://komarev.com/ghpvc/?username=giocoliere&color=lightgrey)](https://github.com/giocoliere)     
   
-[![discord-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-singular_vector.svg)](https://giocoliere.dev/discord) 
-[![twitter-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/twitter-singular_vector.svg)](https://twitter.com/giocolieredev) <br>
-[![mastodon-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/mastodon-singular_vector.svg)](https://mas.to/@gioco) 
-[![revolt-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/revolt-singular_vector.svg)](https://app.revolt.chat/@giocoliere#4812) <br>
+[![discord-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.3.1/assets/cozy/social/discord-singular_vector.svg)](https://giocoliere.dev/discord) 
+[![twitter-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.3.1/assets/cozy/social/twitter-singular_vector.svg)](https://twitter.com/giocolieredev) <br>
+[![mastodon-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.3.1/assets/cozy/social/mastodon-singular_vector.svg)](https://mas.to/@gioco) 
+[![revolt-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.3.1/assets/cozy/social/revolt-singular_vector.svg)](https://app.revolt.chat/@giocoliere#4812) <br>
 [![codeberg-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/codeberg-singular_vector.svg)](https://codeberg.org/giocoliere) 
-[![gitlab-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/gitlab-singular_vector.svg)](https://gitlab.com/giocoliere) <br>
+[![gitlab-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.3.1/assets/cozy/social/gitlab-singular_vector.svg)](https://gitlab.com/giocoliere) <br>
 [![Discord PR](https://lanyard.cnrad.dev/api/842087107908206654?hideStatus=true&idleMessage=%20&showDisplayName=true&hideActivity=true)](https://gioco.lol/discord)
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=w46jsh6qyeoex1a0o2n9we57f&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=c7c7c7&bar_color_cover=false)](https://last.fm/user/giocoliere_)
 
