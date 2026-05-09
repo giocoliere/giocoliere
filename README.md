@@ -22,7 +22,7 @@ Hi, I'm Giocoliere (ofc this is just a nickname). I'm studying how to code by my
 <br>
 
 *   🌍  I'm based in Europe
-*   🖥️  [**`Website`**](http://giocoliere.dev), [**`Bento`**](http://bento.me/gioco), [**`Status`**](http://status.gioco.lol)
+*   🖥️  [**`Website`**](http://giocoliere.dev), [**`L.I.B.`**](https://gioco.own.page/), [**`Status`**](http://status.gioco.lol)
 *   ✉️  [`giocoliere@proton.me`](mailto:giocoliere@proton.me), [`gioco@waifu.club`](mailto:gioco@waifu.club) (yea, it's cringe but I dont care 😎)
 *   🚀  [**`CreeperHUB`**](https://creeperhub.net) projects: [**`Otakuforge`**](https://creeperhub.net/otakuforge), [**`Creepercraft`**](http://creepercraft.net), [**`CreeperLAB`**](http://creeperlab.org) and others
 *   ⚡  [**`creepers.sbs`**](http://creepers.sbs)  /// [![Profile views](https://komarev.com/ghpvc/?username=giocoliere&color=lightgrey)](https://github.com/giocoliere)     
