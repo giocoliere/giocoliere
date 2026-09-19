@@ -1,7 +1,7 @@
 Hi [![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)](https://nohello.net) My name is [**𝓖𝓲𝓸𝓬𝓸𝓵𝓲𝓮𝓻𝓮**](https://bento.me/gioco)
 ==================================================================================================================================
 
-[![LINKS](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=giocoliere.dev;gioco.lol;gioco.is-a.dev;creepers.sbs;creeperhub.net)](https://giocoliere.dev)
+[![LINKS](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=giocoliere.dev;gioco.help;gioco.is-a.dev;creepers.sbs;creeperhub.com)](https://giocoliere.dev)
 
 <a href="https://giocoliere.dev" target="_blank" rel="noreferrer">
 <picture>  
