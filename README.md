@@ -22,9 +22,9 @@ Hi, I'm Giocoliere (ofc this is just a nickname). I'm studying how to code by my
 <br>
 
 *   🌍  I'm based in Europe
-*   🖥️  [**`Website`**](http://giocoliere.dev), [**`L.I.B.`**](https://gioco.own.page/), [**`Blento`**](https://bio.gioco.help/), [**`Status`**](http://status.gioco.lol)
-*   ✉️  [`giocoliere@proton.me`](mailto:giocoliere@proton.me), [`gioco@waifu.club`](mailto:gioco@waifu.club) (yea, it's cringe but I dont care 😎)
-*   🚀  [**`CreeperHUB`**](https://creeperhub.net) projects: [**`Otakuforge`**](https://creeperhub.net/otakuforge), [**`Creepercraft`**](http://creepercraft.net), [**`CreeperLAB`**](http://creeperlab.org) and others
+*   🖥️  [**`Website`**](http://giocoliere.dev), [**`L.I.B.`**](https://gioco.own.page/), [**`Blento`**](https://bio.gioco.help/), [**`Status`**](http://status.gioco.help)
+*   ✉️  [`giocoliere@proton.me`](mailto:giocoliere@proton.me), [`support@creeperhub.net`](mailto:support@creeperhub.net) 
+*   🚀  [**`CreeperHUB`**](https://creeperhub.com) / [**`CREATIVITATIS`**](https://creativitatis.dev)  projects: [**`Otakuforge`**](https://creeperhub.net/otakuforge), [**`CREEPERCRAFT`**](http://creepercraft.net), [**`CreeperLAB`**](http://creeperlab.org) and more
 *   ⚡  [**`creepers.sbs`**](http://creepers.sbs)  /// [![Profile views](https://komarev.com/ghpvc/?username=giocoliere&color=lightgrey)](https://github.com/giocoliere)     
   
 [![discord-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.3.1/assets/cozy/social/discord-singular_vector.svg)](https://giocoliere.dev/discord) 
